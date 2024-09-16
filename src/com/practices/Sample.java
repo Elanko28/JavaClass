@@ -7,16 +7,27 @@ public class Sample {
 	// method syntax
 	private void studentId() {
 		System.out.println("hello friends");
+		
+		System.out.println("modified by branch2");
+
+
 	}
 	
 //	@Override
 	public void employeeName() {
 	System.out.println("employee name is ashok");
+	
+	System.out.println("modified by branch2");
+
+	
+
 }
 //@Override
 	public void employeeId() {
 //	super.employeeId();
 	System.out.println("employee id is 5678");
+	
+
 		
 	}
 
