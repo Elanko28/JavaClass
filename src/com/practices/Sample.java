@@ -8,12 +8,17 @@ public class Sample {
 	private void studentId() {
 		System.out.println("hello friends");
 		
+		System.out.println("modified by branch2");
+
 
 	}
 	
 //	@Override
 	public void employeeName() {
 	System.out.println("employee name is ashok");
+	
+	System.out.println("modified by branch2");
+
 	
 
 }
